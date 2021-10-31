@@ -4,15 +4,17 @@
 }
 
 body {
-    padding: 20px;
+    min-height: 100px;
     background-color: #191a2e;
 }
 
 .ghost {
+    margin-top: 15%;
+    left: 50%;
+    right: 50%;
     height: 120px;
     width: 100px;
     background-color: white;
-    margin: 25px;
     border-radius: 100rem 100rem 0 0;
     position: relative;
     display: flex;
